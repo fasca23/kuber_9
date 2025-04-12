@@ -1,1 +1,4 @@
 diagrams
+dev-user.crt
+dev-user.csr
+dev-user.key
